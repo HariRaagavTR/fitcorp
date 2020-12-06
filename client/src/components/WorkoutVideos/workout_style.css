@@ -1,0 +1,53 @@
+#sss {
+    position: relative;
+    left: 250px;
+    top: 10px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    color: #000000;
+}
+
+#myvideo_smw {
+    width: 640px;
+    height: 360px;
+    border: 1px solid #000000;
+    box-sizing: border-box;
+}
+
+#seven_minute_workout_div {
+    width: 650px;
+    position: relative;
+    left: 110px;
+    top: 50px;
+    float: left;
+}
+
+#zzz {
+    height: 30px;
+    width: 200px;
+    position: relative;
+    left: 250px;
+    top: 10px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    color: #000000;
+}
+
+#myvideo_z {
+    width: 640px;
+    height: 360px;
+    border: 1px solid #363434;
+    box-sizing: border-box;
+}
+
+#zumba_workout_div {
+    width: 650px;
+    position: relative;
+    left: 130px;
+    top: 50px;
+    float: left;
+}

@@ -1,0 +1,60 @@
+#aaa {
+    position: relative;
+    left: 30px;
+    top:30px;
+    width: 176px;
+    height: 86px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 40px;
+    color: #000000;
+}
+
+#tstyle {
+    position: relative;
+    width: 1450px;
+    height: 200px;
+    left: 30px;
+    top: 10px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 43px;
+    color: #000000;
+}
+
+#us {
+    position: relative;
+    top: 20px;
+    left: 700px;
+    width: 200px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 200;
+    font-size: 28px;
+    color: #000000;
+}
+
+#img1 {
+    position: relative;
+    left: 630px;
+    height: 50px;
+    top: 25px;
+}
+
+#img2 {
+    position: relative;
+    left: 670px;
+    height: 50px;
+    top: 25px;
+}
+
+
+#img3 {
+    position: relative;
+    left: 720px;
+    height: 50px;
+    top: 25px;
+}
