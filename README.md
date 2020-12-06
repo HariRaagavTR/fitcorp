@@ -1,4 +1,4 @@
-# FitCorp - A Fitness Website (Web Technology)
+# FitCorp - A Fitness Website (Web Technologies)
 
 ### Running the Website
 Open cmd in the root directory and run:
@@ -6,12 +6,13 @@ Open cmd in the root directory and run:
 set PORT=8080 && node bin/www
 ```
 This runs the backend server.
+
 Then open a new cmd window and run:
 ```cmd
 cd client
 npm start
 ```
-This runs the front end and opens the website @ http://localhost:3000/
+This runs the react-app and opens the website @ http://localhost:3000/
 
 ### Project By
-Hari Raagav T R, Keerthana K and Keerthi Joshi K
+Hari Raagav T R, K Keerthana and Keerthi Joshi K
